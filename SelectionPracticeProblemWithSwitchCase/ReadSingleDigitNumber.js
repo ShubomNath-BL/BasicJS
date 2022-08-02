@@ -1,6 +1,7 @@
 const prompt = require("prompt-sync")();
 var num;
-num = prompt("Enter Number: ");
+var text;
+num = parseInt(prompt("Enter Number: "));
 switch(num){
     case 1:
         text="one";
@@ -30,4 +31,4 @@ switch(num){
         text="nine";
         break;
             
-}
+}console.log(text);

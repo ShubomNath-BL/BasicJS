@@ -1,0 +1,17 @@
+{
+  "name": "forloopproblems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TwoToThePowerOnN.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "shubom",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
